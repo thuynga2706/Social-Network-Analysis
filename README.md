@@ -3,7 +3,7 @@
 ### Repository contains: 
 
 #### InfluencersTweets.py: 
-- Scrape tweets from Twitter using Tweepy package and exported as tweets170829-50.csv
+- Scrape tweets from Twitter using twint package and exported as tweets170829-50.csv
 - Detect Influencers of specific fields
 - Graphical Network shows information between Influencers and their Topics, Hashtags. 
 - Which topics are connected to each other by their posters
